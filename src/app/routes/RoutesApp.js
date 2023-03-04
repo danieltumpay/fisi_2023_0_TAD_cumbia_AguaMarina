@@ -5,7 +5,6 @@ import { Configuracion, Empleos, Dashboard, Perfil, Preparate } from "../pages";
 import { ButtonBackToTop } from "../shared/components";
 import PopPup from "../shared/components/pop-pup/PopPup";
 
-
 const Container = styled.main`
 	padding: 60px var(--padding-global-x);
 	position: relative;

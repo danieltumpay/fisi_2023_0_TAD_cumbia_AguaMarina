@@ -1,7 +1,6 @@
 import { CgUserlane } from "react-icons/cg";
 import { FaCog, FaVideo } from "react-icons/fa";
 import { MdWork } from "react-icons/md";
-
 import { SiSpeedtest } from "react-icons/si";
 import styled from "styled-components";
 import { device } from "../../utils/generalBreakpoints";
